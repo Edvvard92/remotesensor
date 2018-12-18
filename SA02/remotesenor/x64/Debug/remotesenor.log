@@ -1,0 +1,7 @@
+﻿  remotesensor.cpp
+c:\users\medy9\desktop\sa02\remotesenor\climate.hpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\medy9\desktop\sa02\remotesenor\climate.hpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\medy9\desktop\sa02\remotesenor\fakesensor.hpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\medy9\desktop\sa02\remotesenor\fakesensor.hpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  remotesenor.vcxproj -> C:\Users\medy9\Desktop\SA02\x64\Debug\remotesenor.exe
